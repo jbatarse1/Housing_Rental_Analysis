@@ -28,6 +28,7 @@ The following installation must be performed before running the program. It incl
 **Conda Installations:**
 
 PyViz Ecosystem
+
 ```conda install -c pyviz hvplot geoviews```
 
 ---
