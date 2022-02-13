@@ -73,7 +73,6 @@ Then produce 4 visuals to interpret data and information. They are:
 
 <img width="900" alt="Interactive Map" src="https://user-images.githubusercontent.com/93550651/153762345-e68075be-dee8-4ee2-afb7-1bc580dfcb4b.png">
 
-The images above illustrates the results.
 
 In conclusion: Data Story composed.
 
