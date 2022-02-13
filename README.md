@@ -1,17 +1,12 @@
 # Housing_Rental_Analysis
 
-Application developed to analyze Real Estate markets. 
+Application developed to analyze Real Estate Buy and Rent market in the City of San Francisco and can be applied to other markets for analysis. 
 
-planning and forecasting. 
 This program runs a **Python** application within Jupyter Lab to perform 
 financial planning analysis for the evaluation of a retirement portfolio. 
 
-
-
 Line and Bar Plots are created to visualize the information for better understanding and decision making.
 When working in jupyter lab, 
-
-
 
 ---
 
@@ -44,9 +39,9 @@ open ```jupyter lab ```.
 
 Steps for running application:
 
-Import required dependencies and library
+*Import required dependencies and library*
 
-Read CSV files into DataFrame
+*Read CSV files into DataFrame*
 
 Then produce 4 visuals to interpret data and information. They are:
 
