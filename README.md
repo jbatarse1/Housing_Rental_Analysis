@@ -3,10 +3,10 @@
 Application developed to analyze Real Estate Buy and Rent market in the City of San Francisco and can be applied to other markets for analysis. 
 
 This program runs a **Python** application within Jupyter Lab to perform 
-financial planning analysis for the evaluation of a retirement portfolio. 
+real estate market analysis for the evaluation of investing in the Buy and Rent business opportunities. 
 
 Line and Bar Plots are created to visualize the information for better understanding and decision making.
-When working in jupyter lab, 
+ 
 
 ---
 
